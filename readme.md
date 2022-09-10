@@ -1,0 +1,1 @@
+this repo is notes and labs related to Colt Steele's The Modern Python3 Bootcamp
